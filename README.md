@@ -1,2 +1,2 @@
 # eleven
-my website for games, and most likely my own code
+my website for hosting my code (sorry i made the website with google gemini :/ )
